@@ -50,13 +50,13 @@
    ![显卡-显存](imgs/显卡-显存.png)
  - smbios 自行设置
    ![smbios](imgs/smbios.png)
- - ueft，支持图形化
+ - uefi插件，支持图形化
    ![smbios](imgs/ueft-驱动.png)
  - usb定制
    ![usb定制](imgs/usb定制.png)
- - 雷电卡
+ - 雷电卡，视频输出功能
    ![雷电卡](imgs/雷电卡.png)
- - 雷电3-视频输出功能
+ - 雷电树-没有
    ![雷电3](imgs/雷电3.png)
  - 显示器
    ![显示器](imgs/显示器.png)
