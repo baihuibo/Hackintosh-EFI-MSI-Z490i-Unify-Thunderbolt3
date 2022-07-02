@@ -37,7 +37,9 @@
  - BIOS 中雷电选项中，将所有选项开启（参考截图）
  - ACPI 中包含 `SSDT-TB3HP.aml`
 
-# 其它截图
+<details>
+  <summary>截图</summary>
+  
  - kext
    ![kext](imgs/kext.png)
    博通bcm94352z 需要 `BlueToolFixup.kext、BrcmEirmwareData.kext、BrcmPatchRAM3.kext` 驱动辅助
@@ -67,8 +69,26 @@
    ![wifi](imgs/wifi.png)
  - 杂项
    ![杂项](imgs/杂项.png)
+</details>
   
-# BIOS设置-截图
- - 杂项
-   ![杂项](imgs/杂项.png)
+<details>
+  <summary>BIOS设置-截图</summary>
+
+ - CPU-特征
+   ![CPU-特征](imgs/CPU-特征.bmp)
+ - 关闭板载无线网卡
+   ![关闭板载无线网卡](imgs/关闭板载无线网卡.bmp)
+ - 核显设置
+   ![核显设置](imgs/核显设置.bmp)
+ - 唤醒事件
+   ![唤醒事件](imgs/唤醒事件.bmp)
+ - 雷电设置1
+   ![雷电设置1](imgs/雷电设置1.bmp)
+ - 雷电设置2
+   ![雷电设置2](imgs/雷电设置3.bmp)
+ - 雷电设置3
+   ![雷电设置4](imgs/雷电设置4.bmp)
+ - 启动项
+   ![启动项](imgs/启动项.bmp)
+</details>
   
