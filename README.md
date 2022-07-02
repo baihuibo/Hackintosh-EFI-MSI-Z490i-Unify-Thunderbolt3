@@ -42,6 +42,9 @@
 # 其它截图
  - kext
    ![kext](imgs/kext.png)
+   博通bcm94352z 需要 `BlueToolFixup.kext、BrcmEirmwareData.kext、BrcmPatchRAM3.kext` 驱动辅助
+   
+   如果换成`BCM94360CD`则不需要这些驱动，直接免驱
  - 核显设置
    ![kext](imgs/核显设置.png)
    - `framebuffer-conO-alldata` 启用hdmi端口
