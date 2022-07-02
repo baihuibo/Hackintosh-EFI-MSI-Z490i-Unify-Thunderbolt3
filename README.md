@@ -1,5 +1,5 @@
 # hackintool-z490i-unify-opencore
-黑苹果配置文件
+黑苹果配置文件分享
 
 # 配置
  - 主板：微星z490i-unify
@@ -33,10 +33,37 @@
  - usb唤醒s3，s4，s5 启用 （启用它才能支持usb设备唤醒睡眠）
 
 # 雷电接口实现前提
- - 主板固件需 ([更新下载](https://cn.msi.com/Motherboard/MEG-Z490I-UNIFY/support))到最新版本，我使用的是 `2022-06-21的7C77v1C` 版本，具体更新过程很简单自行百度
+ - 主板固件需 ([更新下载](https://cn.msi.com/Motherboard/MEG-Z490I-UNIFY/support))到最新版本，我使用的是 `2022-06-21的7C77v1C` 版本，更新过程简单可查看官网教程
  - bios 中雷电选项中，将所有选项开启
  - ACPI 中包含 `SSDT-TB3HP.aml`
 
 # bios-截图
 
 # 其它截图
+ - kext
+   ![kext](imgs/kext.png)
+ - 核显设置
+   ![kext](imgs/核显设置.png)
+   - `framebuffer-conO-alldata` 启用hdmi端口
+   - `framebuffer-unifiedmem` 分配给核显的显存：0000FOFF=4G，000000C0=3G，00000080=2G，自行根据内存大小来分配，我这里设置4G
+ - 显卡-显存
+   ![显卡-显存](imgs/显卡-显存.png)
+ - smbios 自行设置
+   ![smbios](imgs/smbios.png)
+ - ueft，支持图形化
+   ![smbios](imgs/ueft-驱动.png)
+ - usb定制
+   ![usb定制](imgs/usb定制.png)
+ - 雷电卡
+   ![雷电卡](imgs/雷电卡.png)
+ - 雷电3-视频输出功能
+   ![雷电3](imgs/雷电3.png)
+ - 显示器
+   ![显示器](imgs/显示器.png)
+ - 有线网
+   ![有线网](imgs/有线网.png)
+ - wifi
+   ![wifi](imgs/wifi.png)
+ - 杂项
+   ![杂项](imgs/杂项.png)
+  
