@@ -1,9 +1,10 @@
 # hackintool-z490i-unify-opencore
-黑苹果 z490i unify 主板核显方案配置文件（仅支持核显）
+黑苹果 z490i unify 主板核显方案配置文件
 
 # 配置
  - 主板：微星z490i-unify
- - cpu：i5-10600k
+ - CPU：i5-10600k
+ - 显卡：核显 UHD630
  - 网卡：bcm94352z
  - 内存：海盗船 DDR4 3200 16Gx2
  - 硬盘：西数 sn750 500G
