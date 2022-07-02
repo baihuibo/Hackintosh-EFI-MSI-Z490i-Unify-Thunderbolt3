@@ -1,4 +1,4 @@
-# hackintool-z490i-unify-opencore
+# Hackintosh-EFI-MSI-Z490i-Unify-Thunderbolt3
 黑苹果 z490i unify 主板核显方案配置文件
 
 # 配置
